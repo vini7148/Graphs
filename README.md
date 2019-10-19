@@ -1,6 +1,6 @@
 # Graphs
 
-This repository contains the programs Submitted for an online course on coursera.org offered by the UC SanDiego on Algorithms
+This repository contains the programs Submitted for an online course on coursera.org offered by the UC SanDiego on Graphs
 
 ## The Certificate For Completion Of Course
 
